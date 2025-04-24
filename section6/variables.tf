@@ -2,9 +2,9 @@ variable "aws_region" {
   type    = string
   default = "us-east-1"
 }
-variable "aws_ali" {
+variable "aws_ali_new" {
   type    = string
-  default = "ali"
+  default = "ali_new_branch"
 }
 variable "vpc_name" {
   type    = string
